@@ -14,7 +14,6 @@ Everything I show on my page is built and tested here first.
 | Project | What it is |
 |---|---|
 | [**ai-with-saad**](https://github.com/saadahmadofficial1/ai-with-saad) | Setup guides for every AI tool in my videos (open source, free) |
-| [**marketing-house**](https://github.com/saadahmadofficial1/marketing-house) | My AI-assisted media production work, editing system and CV |
 | [**remotion-cloud-renderer**](https://github.com/saadahmadofficial1/remotion-cloud-renderer) | Cloud video rendering server for Remotion on a free tier |
 | [**european-wisdom**](https://github.com/saadahmadofficial1/european-wisdom) | Site for my automated YouTube channel *European Wisdom* |
 
