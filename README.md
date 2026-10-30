@@ -1,25 +1,21 @@
-### Hi, I'm Saad 👋
+# Creative Technologist (AI Video & Automation)
 
-**AI Automation & Workflows | UAE 🇦🇪**
+I’m Saad Ahmad, a UAE-based creative practitioner combining video production, editorial judgement and AI-assisted workflow design. I direct and test tools built with Claude Code and Codex.
 
-I design AI systems that do real work: video and content production, voiceovers, data pipelines and market briefs.
-Everything I show on my page is built and tested here first.
+## Pinned projects
 
-**▶ Start here: [AI With Saad guides](https://github.com/saadahmadofficial1/ai-with-saad)**. Every tool from my videos, with my exact setup.
-
----
-
-#### 🧰 What I build
-
-| Project | What it is |
+| Project | What you can explore |
 |---|---|
-| [**ai-with-saad**](https://github.com/saadahmadofficial1/ai-with-saad) | Setup guides for every AI tool in my videos (open source, free) |
-| [**marketing-house**](https://github.com/saadahmadofficial1/marketing-house) | My portfolio: AI-assisted media production, results and CV |
-| [**remotion-cloud-renderer**](https://github.com/saadahmadofficial1/remotion-cloud-renderer) | Cloud video rendering server for Remotion on a free tier |
-| [**european-wisdom**](https://github.com/saadahmadofficial1/european-wisdom) | Site for my automated YouTube channel *European Wisdom* |
+| [Reel FX](https://github.com/saadahmadofficial1/reel-fx) | Python video effects, word-timed captions and audio mastering |
+| [YouTube Automation Pipeline](https://github.com/saadahmadofficial1/youtube-automation-pipeline) | Runnable orchestration demo, multilingual plans and quality gates |
+| [AI With Saad](https://github.com/saadahmadofficial1/ai-with-saad) | AI workflow guides and experiments |
+| [Production portfolio](https://github.com/saadahmadofficial1/marketing-house) | Creative production capabilities and results |
+| [Remotion Cloud Renderer](https://github.com/saadahmadofficial1/remotion-cloud-renderer) | Cloud video rendering experiments |
 
-#### 📲 Follow along
+## Connect
 
-[Instagram @ai.with.saad](https://www.instagram.com/ai.with.saad/): new AI workflows every week
+[Instagram](https://www.instagram.com/ai.with.saad) · [YouTube — AI With Saad](https://www.youtube.com/results?search_query=AI+With+Saad) · [LinkedIn](https://linkedin.com/in/saadahmadofficial1) · [Portfolio](https://shorturl.at/nEIyK)
 
-<sub>Market content I share is for education only, not financial advice.</sub>
+YouTube link opens a channel-name search; a confirmed channel URL is not available in this project.
+
+Built with Claude Code.
